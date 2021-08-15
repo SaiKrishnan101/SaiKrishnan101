@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Sai Krishnan , Student at Sri Sairam Engineering College.
-- 👀 I’m interested in networking, programing and cybersecurity
-- 🌱 I’m currently learning CCNA and practicing coding at [Codingame](https://www.codingame.com)
-- 💞️ I’m looking to collaborate on small projects in python
+- 👋 Hi, I’m Sai Krishnan , Student at Sri Sai Ram Engineering College.
+- 👀 I’m interested in Networking, Programming and Cybersecurity.
+- 🌱 I’m currently learning CCNA and practicing coding at [Codechef](https://www.codechef.com)[Codingame](https://www.codingame.com)
+- 💞️ I’m looking to collaborate on small projects in Python.
 - ✨ you can reach me at [linkedin](https://www.linkedin.com/in/sai-krishnan-v-785aa3164/)
 
 <!---
