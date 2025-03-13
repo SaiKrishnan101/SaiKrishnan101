@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Sai Krishnan , Student at Sri Sai Ram Engineering College.
-- 👀 I’m interested in Networking, Programming and Cybersecurity.
-- 🌱 I’m currently learning CCNA and practicing coding at [Codechef](https://www.codechef.com), [Codingame](https://www.codingame.com)
-- 💞️ I’m looking to collaborate on small projects in Python.
+- 👋 Hi, I’m Sai Krishnan, Graduated From Sri Sai Ram Engineering College.
+- 👀 I’m interested in Networking and Programming.
+- 🌱 I’m currently Working as a Appian Developer at WNS Vuram
 - ✨ You can reach me at [linkedin](https://www.linkedin.com/in/sai-krishnan-v-785aa3164/)
 
 <!---
